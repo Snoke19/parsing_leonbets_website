@@ -4,7 +4,7 @@ For run project just follow commands:
 
 clone project:
 ```shell 
-https://github.com/Snoke19/parsing_leonbets_data.git
+https://github.com/Snoke19/parsing_leonbets_website.git
 ```
 
 go inside the project:
