@@ -9,7 +9,7 @@ https://github.com/Snoke19/parsing_leonbets_website.git
 
 go inside the project:
 ```shell 
-cd ./parsing_leonbets_data 
+cd ./parsing_leonbets_website 
 ```
 
 just run the command in a terminal, and it will show the result that is described in the pdf file with the test task.
