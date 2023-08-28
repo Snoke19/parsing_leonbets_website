@@ -20,7 +20,9 @@ just run the command in a terminal, and it will show the result that is describe
 ./mvnw exec:java
 ```
 
+
 when result appear in the terminal they can be cutted and does not show fully. I recommend you to use redirection of the result to file - result.csv and then explore the result in the file.
+
 
 ```shell
 # show main result from test task
