@@ -2,7 +2,6 @@ package com.example.parsing_leonbets_website;
 
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import lombok.extern.slf4j.Slf4j;
 
 import java.io.IOException;
 import java.net.URI;
@@ -11,7 +10,6 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 import java.time.Duration;
 
-@Slf4j
 public class HttpClientTemplate {
 
   private static final String LEON_BETS = "https://leonbets.com/api-2/betline";
